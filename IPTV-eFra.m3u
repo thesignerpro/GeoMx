@@ -307,6 +307,8 @@ http://ipeteve.com/php/t121220/tp.php?c=170&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/t121220/tp.php?c=172&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, TUDN
 http://ipeteve.com/php/t121220/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1,Afizzionados
+http://micine.club:8088/live/qwerty/qwerty/519.m3u8
 #EXTINF:-1, FOX SPORTS 3 
 http://ipeteve.com/php/t121220/tp.php?c=178&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, GOLF
