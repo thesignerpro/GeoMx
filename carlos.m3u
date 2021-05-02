@@ -1,1 +1,1571 @@
-http://srregio.club/a21/mx.m3u
+#EXTM3U
+
+
+
+30
+
+31
+
+32
+
+33 #EXTINF:0 tvg-logo="", Discovery ID
+
+34
+
+35 http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
+
+36
+
+37 #EXTINF:0 tvg-logo="", RCN
+
+38
+
+39 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
+40
+
+41 #EXTINF:0 tvg-logo="", Locomotion
+
+42
+
+43 http://toonxtv.net/hls/loco_ch/stream.m3u8
+
+44
+
+45 #EXTINF:0 tvg-logo="", 93.3 FM
+
+46
+
+47 https://14543.live.streamtheworld.com/XHQQ_FM_SC
+
+48
+
+49 #EXTINF:0 tvg-logo="", 690 RG AM
+
+50
+
+51 https://19303.live.streamtheworld.com/RG690_SC
+
+52
+
+53 #EXTINF:0 tvg-logo="", LA MEJOR 92.5 FM
+
+54
+
+55 https://16643.live.streamtheworld.com/XHSROFM_SC
+
+56
+
+57 #EXTINF:0 tvg-logo="", LA CALIENTE 94.1
+
+58
+
+59 https://14943.live.streamtheworld.com/XETFM_SC
+
+60
+
+61 #EXTINF:0 tvg-logo="", LA LUPE 105.3
+
+62
+
+63 https://16693.live.streamtheworld.com/XHPAGFM_SC
+
+64
+
+65
+
+66 *** NACIONALES ***
+
+67
+
+68 #EXTINF:-1, ONCE NINOS (CLASES)
+
+69
+
+70 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=3315&p=3&k=srregio&f=.m3u8
+
+71
+
+72 #EXTINF:-1, AZTECA 7.3 (CLASES)
+
+73
+
+74 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=3316&p=3&k=srregio&f=.m3u8
+
+75
+
+76 #EXTINF:-1, AZTECA UNO HD
+
+77
+
+78 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=7&p=3&k=srregio&f=.m3u8
+
+79
+
+80 #EXTINF:-1, AZ CLIC HD
+
+81
+
+82 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=11&p=3&k=srregio&f=.m3u8
+
+83
+
+84 #EXTINF:-1, LAS ESTRELLAS
+
+85
+
+86 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=17&p=3&k=srregio&f=.m3u8
+
+87
+
+88 #EXTINF:-1, CANAL 5
+
+89
+
+90 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=20&p=3&k=srregio&f=.m3u8
+
+91
+
+92 #EXTINF:-1, AZTECA 7
+
+93
+
+94 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=21&p=3&k=srregio&f=.m3u8
+
+95
+
+96 #EXTINF:-1, NU9VE
+
+97
+
+98 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=24&p=3&k=srregio&f=.m3u8
+
+99
+
+100 #EXTINF:-1, ONCE
+
+101
+
+102 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=25&p=3&k=srregio&f=.m3u8
+
+103
+
+104 #EXTINF:-1, AZTECA UNO
+
+105
+
+106 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=27&p=3&k=srregio&f=.m3u8
+
+107
+
+108 #EXTINF:-1, TELEFORMULA SD
+
+109
+
+110 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=32&p=3&k=srregio&f=.m3u8
+
+111
+
+112 #EXTINF:-1, MEXIQUENSE TV
+
+113
+
+114 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=44&p=3&k=srregio&f=.m3u8
+
+115
+
+116 #EXTINF:-1, AZ CORAZON
+
+117
+
+118 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=70&p=3&k=srregio&f=.m3u8
+
+119
+
+120 #EXTINF:-1, AZ MUNDO
+
+121
+
+122 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=84&p=3&k=srregio&f=.m3u8
+
+123
+
+124 #EXTINF:-1, AZTECA 7 HD
+
+125
+
+126 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=317&p=3&k=srregio&f=.m3u8
+
+127
+
+128 #EXTINF:-1, AZTECA 7 HD (2)
+
+129
+
+130 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=322&p=3&k=srregio&f=.m3u8
+
+131
+
+132 #EXTINF:-1, IMAGEN TV
+
+133
+
+134 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+
+135
+
+136 #EXTINF:-1, MULTIMEDIOS MTY
+
+137
+
+138 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+
+139
+
+140 #EXTINF:-1, APREDNE TV
+
+141
+
+142 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=401&p=3&k=srregio&f=.m3u8
+
+143
+
+144 #EXTINF:-1, MULTIMEDIOS CDMX
+
+145
+
+146 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1253&p=3&k=srregio&f=.m3u8
+
+147
+
+148 #EXTINF:-1, NU9VE HD
+
+149
+
+150 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+
+151
+
+152 #EXTINF:-1, LAS ESTRELLAS HD
+
+153
+
+154 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+
+155
+
+156 #EXTINF:-1, CANAL 5 HD (2)
+
+157
+
+158 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+
+159
+
+160 #EXTINF:-1, ONCE HD
+
+161
+
+162 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+
+163
+
+164 #EXTINF:-1, MVS TV
+
+165
+
+166 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2149&p=3&k=srregio&f=.m3u8
+
+167
+
+168 #EXTINF:-1, TVC
+
+169
+
+170 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+
+171
+
+172 #EXTINF:-1, CANAL 4
+
+173
+
+174 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2274&p=3&k=srregio&f=.m3u8
+
+175
+
+176 #EXTINF:-1, CANAL 8
+
+177
+
+178 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2307&p=3&k=srregio&f=.m3u8
+
+179
+
+180 #EXTINF:-1, TELEVISA PUEBLA
+
+181
+
+182 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2312&p=3&k=srregio&f=.m3u8
+
+183
+
+184 #EXTINF:-1, A+
+
+185
+
+186 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+
+187
+
+188 #EXTINF:-1, TVMAS
+
+189
+
+190 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2324&p=3&k=srregio&f=.m3u8
+
+191
+
+192 #EXTINF:-1, CANAL DEL CONGRESO
+
+193
+
+194 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2331&p=3&k=srregio&f=.m3u8
+
+195
+
+196 #EXTINF:-1, MULTIMEDIOS CDMX
+
+197
+
+198 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2352&p=3&k=srregio&f=.m3u8
+
+199
+
+200 #EXTINF:-1, IMAGEN TV HD
+
+201
+
+202 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+
+203
+
+204 #EXTINF:-1, ACADEMIA
+
+205
+
+206 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2703&p=3&k=srregio&f=.m3u8
+
+207
+
+208 #EXTINF:-1, MULTIMEDIOS HD
+
+209
+
+210 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+
+211
+
+212
+
+213
+
+214
+
+215
+
+216
+
+217
+
+218 *** INFANTILES ***
+
+219
+
+220 #EXTINF:-1, TOONCAST
+
+221
+
+222 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=108&p=3&k=srregio&f=.m3u8
+
+223
+
+224 #EXTINF:-1, DISCOVERY KIDS
+
+225
+
+226 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=109&p=3&k=srregio&f=.m3u8
+
+227
+
+228 #EXTINF:-1, NICK
+
+229
+
+230 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=110&p=3&k=srregio&f=.m3u8
+
+231
+
+232 #EXTINF:-1, DISNEY XD
+
+233
+
+234 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=111&p=3&k=srregio&f=.m3u8
+
+235
+
+236 #EXTINF:-1, CARTOON NETWORK
+
+237
+
+238 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=112&p=3&k=srregio&f=.m3u8
+
+239
+
+240 #EXTINF:-1, DISNEY CHANNEL
+
+241
+
+242 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=113&p=3&k=srregio&f=.m3u8
+
+243
+
+244 #EXTINF:-1, BOOMERANG
+
+245
+
+246 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=115&p=3&k=srregio&f=.m3u8
+
+247
+
+248 #EXTINF:-1, BABY TV
+
+249
+
+250 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=116&p=3&k=srregio&f=.m3u8
+
+251
+
+252 #EXTINF:-1, NICK JR
+
+253
+
+254 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=117&p=3&k=srregio&f=.m3u8
+
+255
+
+256 #EXTINF:-1, DISNEY JR
+
+257
+
+258 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=118&p=3&k=srregio&f=.m3u8
+
+259
+
+260 #EXTINF:-1, NICKTOONS SD
+
+261
+
+262 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1708&p=3&k=srregio&f=.m3u8
+
+263
+
+264 #EXTINF:-1, BABY FIRST
+
+265
+
+266 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1984&p=3&k=srregio&f=.m3u8
+
+267
+
+268 #EXTINF:-1, NICK 2
+
+269
+
+270 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+
+271
+
+272 #EXTINF:-1, NAT GEO KIDS
+
+273
+
+274 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+
+275
+
+276 #EXTINF:-1, BIT ME
+
+277
+
+278 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
+279
+
+280
+
+281 *** CINE ***
+
+282
+
+283 #EXTINF:-1, A3CINE
+
+284
+
+285 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=3112&p=3&k=srregio&f=.m3u8
+
+286
+
+287 #EXTINF:-1, TBS SD
+
+288
+
+289 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=81&p=3&k=srregio&f=.m3u8
+
+290
+
+291 #EXTINF:-1, DE PELICULA +
+
+292
+
+293 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=121&p=3&k=srregio&f=.m3u8
+
+294
+
+295 #EXTINF:-1, GOLDEN +
+
+296
+
+297 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=122&p=3&k=srregio&f=.m3u8
+
+298
+
+299 #EXTINF:-1, GOLDEN
+
+300
+
+301 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=123&p=3&k=srregio&f=.m3u8
+
+302
+
+303 #EXTINF:-1, GOLDEN EDGE
+
+304
+
+305 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=124&p=3&k=srregio&f=.m3u8
+
+306
+
+307 #EXTINF:-1, TNT
+
+308
+
+309 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=126&p=3&k=srregio&f=.m3u8
+
+310
+
+311 #EXTINF:-1, TCM
+
+312
+
+313 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=128&p=3&k=srregio&f=.m3u8
+
+314
+
+315 #EXTINF:-1, SPACE
+
+316
+
+317 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=129&p=3&k=srregio&f=.m3u8
+
+318
+
+319 #EXTINF:-1, AMC
+
+320
+
+321 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=131&p=3&k=srregio&f=.m3u8
+
+322
+
+323 #EXTINF:-1, STUDIO UNIVERSAL
+
+324
+
+325 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=132&p=3&k=srregio&f=.m3u8
+
+326
+
+327 #EXTINF:-1, I SAT
+
+328
+
+329 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=135&p=3&k=srregio&f=.m3u8
+
+330
+
+331 #EXTINF:-1, EUROPA CHANNEL
+
+332
+
+333 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=136&p=3&k=srregio&f=.m3u8
+
+334
+
+335 #EXTINF:-1, FILMS & ARTS
+
+336
+
+337 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=137&p=3&k=srregio&f=.m3u8
+
+338
+
+339 #EXTINF:-1, FXM
+
+340
+
+341 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=138&p=3&k=srregio&f=.m3u8
+
+342
+
+343 #EXTINF:-1, FXM SD
+
+344
+
+345 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=332&p=3&k=srregio&f=.m3u8
+
+346
+
+347 #EXTINF:-1, FOX SERIES
+
+348
+
+349 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=139&p=3&k=srregio&f=.m3u8
+
+350
+
+351 #EXTINF:-1, MORBIDO
+
+352
+
+353 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=140&p=3&k=srregio&f=.m3u8
+
+354
+
+355 #EXTINF:-1, FOX MOVIES
+
+356
+
+357 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=146&p=3&k=srregio&f=.m3u8
+
+358
+
+359 #EXTINF:-1, CINECANAL
+
+360
+
+361 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=149&p=3&k=srregio&f=.m3u8
+
+362
+
+363 #EXTINF:-1, CINEMAX
+
+364
+
+365 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=158&p=3&k=srregio&f=.m3u8
+
+366
+
+367 #EXTINF:-1, AMC
+
+368
+
+369 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=328&p=3&k=srregio&f=.m3u8
+
+370
+
+371 #EXTINF:-1, DE PELICULA SD
+
+372
+
+373 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=335&p=3&k=srregio&f=.m3u8
+
+374
+
+375 #EXTINF:-1, FOX ACTION
+
+376
+
+377 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=336&p=3&k=srregio&f=.m3u8
+
+378
+
+379 #EXTINF:-1, PARAMOUNT CHANNEL
+
+380
+
+381 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+
+382
+
+383 #EXTINF:-1, FOX CINEMA SD
+
+384
+
+385 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+
+386
+
+387 #EXTINF:-1, FOX CLASSICS SD
+
+388
+
+389 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+
+390
+
+391 #EXTINF:-1, AZ CINEMA
+
+392
+
+393 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1787&p=3&k=srregio&f=.m3u8
+
+394
+
+395
+
+396 *** ENTRETENIMIENTO ***
+
+397
+
+398 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
+
+399
+
+400 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=85&p=3&k=srregio&f=.m3u8
+
+401
+
+402 #EXTINF:-1, FOX
+
+403
+
+404 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=46&p=3&k=srregio&f=.m3u8
+
+405
+
+406 #EXTINF:-1, SONY
+
+407
+
+408 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=48&p=3&k=srregio&f=.m3u8
+
+409
+
+410 #EXTINF:-1, WARNER
+
+411
+
+412 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=52&p=3&k=srregio&f=.m3u8
+
+413
+
+414 #EXTINF:-1, E!
+
+415
+
+416 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=55&p=3&k=srregio&f=.m3u8
+
+417
+
+418 #EXTINF:-1, UNIVERSAL
+
+419
+
+420 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=57&p=3&k=srregio&f=.m3u8
+
+421
+
+422 #EXTINF:-1, SYFY
+
+423
+
+424 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=59&p=3&k=srregio&f=.m3u8
+
+425
+
+426 #EXTINF:-1, FX
+
+427
+
+428 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=60&p=3&k=srregio&f=.m3u8
+
+429
+
+430 #EXTINF:-1, A&E
+
+431
+
+432 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=62&p=3&k=srregio&f=.m3u8
+
+433
+
+434 #EXTINF:-1, AXN
+
+435
+
+436 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=64&p=3&k=srregio&f=.m3u8
+
+437
+
+438 #EXTINF:-1, UNICABLE SD
+
+439
+
+440 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=66&p=3&k=srregio&f=.m3u8
+
+441
+
+442 #EXTINF:-1, SUNDANCE TV
+
+443
+
+444 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=69&p=3&k=srregio&f=.m3u8
+
+445
+
+446 #EXTINF:-1, TNT SERIES
+
+447
+
+448 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=71&p=3&k=srregio&f=.m3u8
+
+449
+
+450 #EXTINF:-1, GLITZ
+
+451
+
+452 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=76&p=3&k=srregio&f=.m3u8
+
+453
+
+454 #EXTINF:-1, GOURMET
+
+455
+
+456 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=74&p=3&k=srregio&f=.m3u8
+
+457
+
+458 #EXTINF:-1, FOX LIFE
+
+459
+
+460 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=77&p=3&k=srregio&f=.m3u8
+
+461
+
+462 #EXTINF:-1, DISTRITO COMEDIA SD
+
+463
+
+464 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=78&p=3&k=srregio&f=.m3u8
+
+465
+
+466 #EXTINF:-1, TRUTV
+
+467
+
+468 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=79&p=3&k=srregio&f=.m3u8
+
+469
+
+470 #EXTINF:-1, TL NOVELAS SD
+
+471
+
+472 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=83&p=3&k=srregio&f=.m3u8
+
+473
+
+474 #EXTINF:-1, LIFETIME
+
+475
+
+476 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=94&p=3&k=srregio&f=.m3u8
+
+477
+
+478 #EXTINF:-1, ANTENA 3
+
+479
+
+480 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=199&p=3&k=srregio&f=.m3u8
+
+481
+
+482 #EXTINF:-1, FOX HD
+
+483
+
+484 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=201&p=3&k=srregio&f=.m3u8
+
+485
+
+486 #EXTINF:-1, WARNER HD
+
+487
+
+488 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=205&p=3&k=srregio&f=.m3u8
+
+489
+
+490 #EXTINF:-1, UNIVERSAL HD
+
+491
+
+492 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=207&p=3&k=srregio&f=.m3u8
+
+493
+
+494 #EXTINF:-1, FX HD
+
+495
+
+496 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=209&p=3&k=srregio&f=.m3u8
+
+497
+
+498 #EXTINF:-1, TRUTV HD
+
+499
+
+500 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=215&p=3&k=srregio&f=.m3u8
+
+501
+
+502 #EXTINF:-1, HOLA TV HD
+
+503
+
+504 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=219&p=3&k=srregio&f=.m3u8
+
+505
+
+506 #EXTINF:-1, COMEDY CENTRAL
+
+507
+
+508 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=340&p=3&k=srregio&f=.m3u8
+
+509
+
+510 #EXTINF:-1, COMEDY CENTRAL SD
+
+511
+
+512 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=341&p=3&k=srregio&f=.m3u8
+
+513
+
+514 #EXTINF:-1, UNICABLE
+
+515
+
+516 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+
+517
+
+518 #EXTINF:-1, MAS CHIC
+
+519
+
+520 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1842&p=3&k=srregio&f=.m3u8
+
+521
+
+522 #EXTINF:-1, A3SERIES
+
+523
+
+524 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2113&p=3&k=srregio&f=.m3u8
+
+525
+
+526
+
+527 *** DEPORTES ***
+
+528
+
+529 #EXTINF:-1, ESPN +
+
+530
+
+531 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=167&p=3&k=srregio&f=.m3u8
+
+532
+
+533 #EXTINF:-1, ESPN
+
+534
+
+535 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=168&p=3&k=srregio&f=.m3u8
+
+536
+
+537 #EXTINF:-1, ESPN 2
+
+538
+
+539 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=169&p=3&k=srregio&f=.m3u8
+
+540
+
+541 #EXTINF:-1, FOX SPORTS
+
+542
+
+543 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=170&p=3&k=srregio&f=.m3u8
+
+544
+
+545 #EXTINF:-1, FOX SPORTS 2
+
+546
+
+547 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=172&p=3&k=srregio&f=.m3u8
+
+548
+
+549 #EXTINF:-1, TUDN
+
+550
+
+551 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=174&p=3&k=srregio&f=.m3u8
+
+552
+
+553 #EXTINF:-1, FOX SPORTS 3
+
+554
+
+555 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=178&p=3&k=srregio&f=.m3u8
+
+556
+
+557 #EXTINF:-1, GOLF
+
+558
+
+559 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=179&p=3&k=srregio&f=.m3u8
+
+560
+
+561 #EXTINF:-1, AYM SPORTS
+
+562
+
+563 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=180&p=3&k=srregio&f=.m3u8
+
+564
+
+565 #EXTINF:-1, ESPN 3
+
+566
+
+567 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=345&p=3&k=srregio&f=.m3u8
+
+568
+
+569 #EXTINF:-1, TUDN HD (2)
+
+570
+
+571 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+
+572
+
+573 #EXTINF:-1, ADRENALINA SPORTS HD
+
+574
+
+575 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1799&p=3&k=srregio&f=.m3u8
+
+576
+
+577 #EXTINF:-1, LAS
+
+578
+
+579 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+
+580
+
+581 #EXTINF:-1, HAVOC
+
+582
+
+583 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+
+584
+
+585 #EXTINF:-1, TVC DEPORTES
+
+586
+
+587 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2157&p=3&k=srregio&f=.m3u8
+
+588
+
+589 #EXTINF:-1, CLARO SPORTS HD
+
+590
+
+591 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+
+592
+
+593 #EXTINF:-1, FUEL TV HD
+
+594
+
+595 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2587&p=3&k=srregio&f=.m3u8
+
+596
+
+597
+
+598 *** CULTURALES ***
+
+599
+
+600 #EXTINF:-1, DISCOVERY ID
+
+601
+
+602 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2376&p=3&k=srregio&f=.m3u8
+
+603
+
+604 #EXTINF:-1, GARAGE TV
+
+605
+
+606 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=75&p=3&k=srregio&f=.m3u8
+
+607
+
+608 #EXTINF:-1, DISCOVERY CHANNEL
+
+609
+
+610 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=86&p=3&k=srregio&f=.m3u8
+
+611
+
+612 #EXTINF:-1, ANIMAL PLANET
+
+613
+
+614 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2378&p=3&k=srregio&f=.m3u8
+
+615
+
+616 #EXTINF:-1, HISTORY
+
+617
+
+618 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=89&p=3&k=srregio&f=.m3u8
+
+619
+
+620 #EXTINF:-1, NAT GEO
+
+621
+
+622 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=91&p=3&k=srregio&f=.m3u8
+
+623
+
+624 #EXTINF:-1, NAT GEO WILD
+
+625
+
+626 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=92&p=3&k=srregio&f=.m3u8
+
+627
+
+628 #EXTINF:-1, DISCOVERY THEATER
+
+629
+
+630 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=95&p=3&k=srregio&f=.m3u8
+
+631
+
+632 #EXTINF:-1, H&H
+
+633
+
+634 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=96&p=3&k=srregio&f=.m3u8
+
+635
+
+636 #EXTINF:-1, TLC
+
+637
+
+638 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=97&p=3&k=srregio&f=.m3u8
+
+639
+
+640 #EXTINF:-1, DISCOVERY SCIENCE
+
+641
+
+642 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=98&p=3&k=srregio&f=.m3u8
+
+643
+
+644 #EXTINF:-1, DISCOVERY CIVILIZATION
+
+645
+
+646 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=99&p=3&k=srregio&f=.m3u8
+
+647
+
+648 #EXTINF:-1, DISCOVERY WORLD
+
+649
+
+650 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=101&p=3&k=srregio&f=.m3u8
+
+651
+
+652 #EXTINF:-1, TVE
+
+653
+
+654 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=198&p=3&k=srregio&f=.m3u8
+
+655
+
+656 #EXTINF:-1, SHOPPING
+
+657
+
+658 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1943&p=3&k=srregio&f=.m3u8
+
+659
+
+660 #EXTINF:-1, FOOD NETWORK
+
+661
+
+662 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2145&p=3&k=srregio&f=.m3u8
+
+663
+
+664 #EXTINF:-1, STAR TVE
+
+665
+
+666 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2375&p=3&k=srregio&f=.m3u8
+
+667
+
+668 #EXTINF:-1, DISCOVERY TURBO
+
+669
+
+670 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+
+671
+
+672 #EXTINF:-1, CURIOSITY STREAM
+
+673
+
+674 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2594&p=3&k=srregio&f=.m3u8
+
+675
+
+676
+
+677 *** MUSICA ***
+
+678
+
+679 #EXTINF:-1, MTV LIVE
+
+680
+
+681 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=211&p=3&k=srregio&f=.m3u8
+
+682
+
+683 #EXTINF:-1, MTV
+
+684
+
+685 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=212&p=3&k=srregio&f=.m3u8
+
+686
+
+687 #EXTINF:-1, MTV HITS SD
+
+688
+
+689 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=213&p=3&k=srregio&f=.m3u8
+
+690
+
+691 #EXTINF:-1, VH1 CLASSIC SD
+
+692
+
+693 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=214&p=3&k=srregio&f=.m3u8
+
+694
+
+695 #EXTINF:-1, VH1 SD
+
+696
+
+697 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=217&p=3&k=srregio&f=.m3u8
+
+698
+
+699 #EXTINF:-1, TELEHIT URBANO SD
+
+700
+
+701 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=218&p=3&k=srregio&f=.m3u8
+
+702
+
+703 #EXTINF:-1, TELEHIT +
+
+704
+
+705 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=220&p=3&k=srregio&f=.m3u8
+
+706
+
+707 #EXTINF:-1, BANDAMAX SD
+
+708
+
+709 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=221&p=3&k=srregio&f=.m3u8
+
+710
+
+711 #EXTINF:-1, AZ CLIC
+
+712
+
+713 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=223&p=3&k=srregio&f=.m3u8
+
+714
+
+715 #EXTINF:-1, VH1 HD
+
+716
+
+717 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=334&p=3&k=srregio&f=.m3u8
+
+718
+
+719
+
+720
+
+721 *** NOTICIAS ***
+
+722
+
+723 #EXTINF:-1, FOROTV HD
+
+724
+
+725 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=4&p=3&k=srregio&f=.m3u8
+
+726
+
+727 #EXTINF:-1, FOROTV SD
+
+728
+
+729 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=19&p=3&k=srregio&f=.m3u8
+
+730
+
+731 #EXTINF:-1, ADN40
+
+732
+
+733 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=40&p=3&k=srregio&f=.m3u8
+
+734
+
+735 #EXTINF:-1, ADN 40 HD
+
+736
+
+737 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=184&p=3&k=srregio&f=.m3u8
+
+738
+
+739 #EXTINF:-1, CNN
+
+740
+
+741 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=185&p=3&k=srregio&f=.m3u8
+
+742
+
+743 #EXTINF:-1, CNN SD
+
+744
+
+745 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=186&p=3&k=srregio&f=.m3u8
+
+746
+
+747 #EXTINF:-1, CNN Ã SD
+
+748
+
+749 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=187&p=3&k=srregio&f=.m3u8
+
+750
+
+751 #EXTINF:-1, WOBI
+
+752
+
+753 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=102&p=3&k=srregio&f=.m3u8
+
+754
+
+755 #EXTINF:-1, FOXN EWS
+
+756
+
+757 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=188&p=3&k=srregio&f=.m3u8
+
+758
+
+759 #EXTINF:-1, BLOOMBERG
+
+760
+
+761 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=190&p=3&k=srregio&f=.m3u8
+
+762
+
+763 #EXTINF:-1, BBC SD
+
+764
+
+765 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=191&p=3&k=srregio&f=.m3u8
+
+766
+
+767 #EXTINF:-1, AL JAAZERA
+
+768
+
+769 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=192&p=3&k=srregio&f=.m3u8
+
+770
+
+771 #EXTINF:-1, NTN 24
+
+772
+
+773 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=194&p=3&k=srregio&f=.m3u8
+
+774
+
+775 #EXTINF:-1, JUSTICIA TV
+
+776
+
+777 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=196&p=3&k=srregio&f=.m3u8
+
+778
+
+779 #EXTINF:-1, HLN
+
+780
+
+781 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=197&p=3&k=srregio&f=.m3u8
+
+782
+
+783 #EXTINF:-1, DW
+
+784
+
+785 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=203&p=3&k=srregio&f=.m3u8
+
+786
+
+787 #EXTINF:-1, RT
+
+788
+
+789 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=999&p=3&k=srregio&f=.m3u8
+
+790
+
+791 #EXTINF:-1, MILENIO HD
+
+792
+
+793 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1250&p=3&k=srregio&f=.m3u8
+
+794
+
+795 #EXTINF:-1, MILENIO SD
+
+796
+
+797 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1252&p=3&k=srregio&f=.m3u8
+
+798
+
+799 #EXTINF:-1, EXCELSIOR TV
+
+800
+
+801 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1449&p=3&k=srregio&f=.m3u8
+
+802
+
+803 #EXTINF:-1, EL FINANCIERO HD
+
+804
+
+805 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1649&p=3&k=srregio&f=.m3u8
+
+806
+
+807 #EXTINF:-1, RT ESPAÃOL
+
+808
+
+809 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2091&p=3&k=srregio&f=.m3u8
+
+810
+
+811 #EXTINF:-1, FRANCE 24
+
+812
+
+813 http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2402&p=3&k=srregio&f=.m3u8
